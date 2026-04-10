@@ -1,5 +1,5 @@
 baseURL: "https://adam-isaak.github.io" 
-title: Adam Isaak Portfolio
+title: Adam Isaaks Portfolio
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -41,7 +41,7 @@ params:
     disableSpecial1stPost: true
     disableAnchoredHeadings: true
     ShowPostNavLinks: true
-    ShowBreadCrumbs: false
+    ShowBreadCrumbs: true
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
     MainSections: ["about", "training", "engagement", "projects", "achievements", "contact"]

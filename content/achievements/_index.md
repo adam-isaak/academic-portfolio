@@ -1,5 +1,6 @@
 ---
 title: "Achievements"
+url: /achievements
 ---
 
 ## Achievements

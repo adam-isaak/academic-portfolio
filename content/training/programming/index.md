@@ -1,5 +1,6 @@
 ---
 title: "Programming"
+url: /training/programming
 tags: ["Programming", "Scripting", "MATLAB", "C++", "C#", "IT", "Databases", "MATLAB", "R", "Python", "OOP", "GIS", "SQL"]
 description: "A summary of my skills in programming both through, education, working as a software developer in the past, and applying it to research."
 summary: "A summary of my skills in programming both through, education, working as a software developer in the past, and applying it to research."

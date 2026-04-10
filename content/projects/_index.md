@@ -1,5 +1,6 @@
 ---
 title: "Projects"
+url: /projects
 description: "Summary of the research projects."
 layout: list
 ---

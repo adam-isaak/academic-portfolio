@@ -1,5 +1,6 @@
 ---
 title: "Geographic Information Systems"
+url: /training/gis
 tags: ["Geographic Information Systems", "GIS", "QGIS", "ArcGIS", "LiDAR", "Remote Sensing", "Python", "Databases", "SQL", "Python"]
 description: "Outlook on my training and projects worked on using GIS software be it QGIS, ArcGIS, be it with remotely sensed data like LiDAR, or otherwise."
 summary: "Outlook on my training and projects worked on using GIS software be it QGIS, ArcGIS, be it with remotely sensed data like LiDAR, or otherwise."

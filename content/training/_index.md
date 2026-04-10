@@ -1,6 +1,7 @@
 ---
 title: "Training"
 description: ""
+url: /training
 ---
 
 # Training

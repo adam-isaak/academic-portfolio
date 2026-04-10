@@ -1,5 +1,6 @@
 ---
 title: "Communication and Leadership"
+url: /training/communication-leadership
 tags: ["Communication", "Technical Writing", "Project Management"]
 description: "An overlook of the various communication and leadership skills I have utilized and bene trained in "
 summary: "Description of the communication skills I have received professional training, for learned myself, and have successfully applied."

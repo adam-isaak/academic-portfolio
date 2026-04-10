@@ -1,5 +1,6 @@
 ---
 title: "Field Work"
+url: /training/field-work
 tags: ["Field Work", "Navigation", "Survival Skills", "Shelter-building", "Stratigraphic Sections", ""]
 description: "Overview of the practical field skills and training I have a acquired through both training courses and while working in the field."
 summary: "Overview of the practical field skills and training I have a acquired through both training courses and while working in the field."
