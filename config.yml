@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+baseURL: "https://adam-isaak.github.io" 
+title: Adam Isaak Portfolio
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -12,39 +12,39 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Papers
-          url: papers/
+        - name: Training
+          url: Training/
           weight: 2
-        - name: Courses
-          url: courses/
+        - name: Engagement
+          url: engagement/
           weight: 3
-        - name: Data
-          url: data/
+        - name: Projects
+          url: projects/
           weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+        - name: Achievements
+          url: achievements/
+          weight: 5
+        - name: Contact
+          url: contact/
           weight: 6
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
+    description: "This website hosts Adam Isaak's a physical geography undergraduate portfolio"
+    author: Adam Isaak
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
-    defaultTheme: light
+    defaultTheme: dark
     hideFooter: false
     disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true
     disableAnchoredHeadings: true
-    ShowPostNavLinks: false
+    ShowPostNavLinks: true
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["about", "training", "engagement", "projects", "achievements", "contact"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -54,50 +54,37 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
-          imageUrl: "picture.jpeg"
+          title: Adam Isaak
+          subtitle: "Greetings, I am an Honours Physical Geography Undergraduate at the University of Manitoba, specializing in glaciers and geomorphology. I am currently focused on studying basal channels on the ice shelves in Antarctica. I have a background in programming which I leverage in modeling and in GIS applications. Take a look around to see what I've been up to, or feel free get in touch to say hello."
+          imageUrl: "profile-picture.jpeg"
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Courses
-              url: courses/
+            - name: Training
+              url: training/
+            - name: Engagement
+              url: engagement/
+            - name: Projects
+              url: projects/
+            - name: Achievements
+              url: achievements/
+            - name: Contact
+              url: contact/
             - name: Tags
               url: tags/
             - name: Archive
               url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
-        - name: CV
-          url: cv.pdf
         - name: Email
-          url: mailto:igelfeld@regensburg.edu
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: mailto:adam.isaak@proton.me
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/adam-isaak/
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
-        - name: Twitter
-          url: https://x.com/pmichaillat
-        - name: Bluesky
-          url: https://bsky.app/profile/pmichaillat.bsky.social
+          url: https://github.com/adam-isaak
+        - name: CV
+          url: resume.pdf
+
 
     assets:
         disableScrollBarStyle: true
@@ -105,7 +92,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Adam Isaak"
       icon: favicon.ico
       iconHeight: 18
 
